@@ -50,6 +50,7 @@ kmeans=min_kmeans_model
 
 y_pred =kmeans.fit_predict(X)
 
+#用下面这个来评估聚类的模型的分数
 from sklearn import metrics
 score=metrics.calinski_harabaz_score(X, y_pred)
 
