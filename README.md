@@ -1,7 +1,7 @@
 # machine-leaning
 **all right everybody. this is a demo of machine-leaning**  
 
-**i create it just for fun,some translation may not be correct**  
+~~i create it just for fun,some translation may not be correct~~ 
 
 **to run this demo,you need install all this**  
 *pyhton3  
